@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(56, 17, 17);
+    background-color: rgb(103, 134, 73);
 }
 body h1{
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     margin-top: 7%;
     font-size: 2.5rem;
@@ -25,7 +25,7 @@ header{
     border-radius: 30px;
     text-align: center;
     border: 4px solid;
-    color: rgb(56, 40, 40);
+    color: rgb(17, 16, 16);
 }
 .search::placeholder{
     color: rgb(56, 40, 40);
@@ -36,7 +36,7 @@ header{
 .mov h2{
     padding: 15px;
     margin-left: 20px;
-    color: white;
+    color: rgb(252, 247, 247);
     font-size: 2rem;
 }
 .mov h3{
@@ -60,13 +60,13 @@ header{
     width: 300px;
     height: 480px;
     flex-direction: column;
-    border: 5px solid rosybrown;
+    border: 5px solid white;
 }
 .page{
     padding: 50px;
     margin: auto;
     width: 80%;
-    background-color: rosybrown;
+    background-color: white;
     border-radius: 10px;
 }
 .image{
@@ -84,7 +84,7 @@ header{
 }
 .page h4{
     padding: 5px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 1.2rem;
     font-weight: 600;
 }
@@ -94,7 +94,7 @@ header{
     font-weight: 550;
 }
 a{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 1.2rem;
     font-weight: 700;
     text-decoration: none;
